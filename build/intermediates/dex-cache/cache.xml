@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\9d3118da3bac6ee46a61d05b62ca46842f73344d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6e0e69952d7dddb952cb9b8bd008575206f2b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\5716880d2af38558eb271efc5dfc82cacf2d3e42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6a86591756b67ed09bfdce69f14ad756ded4c90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\063740cf871c8b51f77990750148be643bb0bb19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d744a39f35d815897f10628a9ed3cd5c6cb4c18a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\444af00617b301ad9991d71e8a5767c0ac90b3b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c12a1c14112bc13bf181bb7b50a711ff08aac3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="383669dd906d57116f5771faf266f88ef6c757ec">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4691a01c9e6f37483af32f6f9e262cb40aecba8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\798ebc244ac42791d6823343b0f6c050125999bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ec99649d17c673fbed6d37f59c6839f57448d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_869d65fd82aa27063b5038ef9fdcdd1c719e0365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\08be2af44cfe0b9d9424960553e71b37c8b7917c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_546bd7cd6fee307f8a0cdb608e30fc6bad08bd02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\503e0cd12f8fa2f759058ee4f9490c557569d7fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f7de96a9ce89c6a82b996011786cd06652d754e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\7f54241a0524a71237ead504fb947a4d5d221cca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fcf2d17cafc16b8364cd6d3e7b4c38af4994c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\3d53e105ae9bbd5c816c57df495551fc4056fc89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d95ce09e161883568b785ca4f22c8e509204da60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LocalAdmin\.android\build-cache\50c25bd4acc8dbb7e8105f44da3ba09ceb465991\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\LocalAdmin\OneDrive\491 Mobile Computing\Assignment 3\Assignment3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b6f98fbd8865a40c2945e527e07b42fc671cd2e\classes.dex" />
+    </item>
+
+</items>
